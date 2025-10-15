@@ -1,0 +1,2 @@
+"# Archivo de Configuraci¢n" 
+"Versi¢n: 1.0" 
